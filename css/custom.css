@@ -1,0 +1,16 @@
+body {
+  background-image: url("../images/stormbg.jpg");
+  background-size: cover; }
+
+.container {
+  margin-top: 34px; }
+  .container .card {
+    background-color: rgba(146, 65, 78, 0.44);
+    padding: 15px;
+    color: white; }
+
+.container-2 {
+  display: flex;
+  justify-content: center; }
+
+/*# sourceMappingURL=custom.css.map */
