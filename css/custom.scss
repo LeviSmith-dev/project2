@@ -30,15 +30,23 @@ body{
 		background-color: #222;
 		border-color: #080808;
 		color:#9d9d9d;
+		margin-top:30px;
 	}
 
 	.footer-bottom{
 		position:absolute;
 		bottom:0;
 		width:100%;
+
 	}
 }
 
 form{
 	color:white;
+}
+
+.navbar-brand{
+	img{
+		margin-top:-5px;
+	}
 }
