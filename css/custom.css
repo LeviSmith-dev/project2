@@ -26,11 +26,27 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%; }
+.container-fluid .social {
+  display: flex;
+  justify-content: center; }
+  .container-fluid .social a {
+    text-decoration: none; }
+  .container-fluid .social i {
+    margin: 10px; }
+
+.container-2 {
+  display: flex;
+  justify-content: center; }
 
 form {
   color: white; }
 
 .navbar-brand img {
   margin-top: -5px; }
+
+.shadow {
+  -webkit-box-shadow: 0px 0px 10px 2.5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 10px 2.5px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 10px 2.5px rgba(0, 0, 0, 0.75); }
 
 /*# sourceMappingURL=custom.css.map */
